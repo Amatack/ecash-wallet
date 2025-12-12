@@ -333,7 +333,7 @@ onBeforeUnmount(async () => {
       <p>Built with Vue.js, Vite.js and chronik-client</p>
       <p class="footer-note">For educational purposes only</p>
       <a 
-        href="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME" 
+        href="https://github.com/Amatack/ecash-wallet" 
         target="_blank" 
         rel="noopener noreferrer"
         class="github-link"
